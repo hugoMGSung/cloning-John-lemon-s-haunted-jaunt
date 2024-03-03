@@ -12,6 +12,8 @@ John Lemon's Haunted Jaunt Unity Learn 클로닝 리포지토리
 
 - 다운로드 후 Unity 프로젝트에 import
 
+	![임포트](https://raw.githubusercontent.com/hugoMGSung/cloning-John-lemon-s-haunted-jaunt/main/images/johnlemon001.png)
+
 ### 새 신 추가
 - 파일 > 새 씬 선택
 	- 계층 구조의 Untitled를 MainScene으로 변경 후 저장
@@ -20,5 +22,8 @@ John Lemon's Haunted Jaunt Unity Learn 클로닝 리포지토리
 ### 캐릭터 모델 추가	
 - 프로젝트 창 > UnityTechnologies > Assets > Models > Characters 내 JohenLemon 확인
 - 씬 뷰로 드래그
+
+	![존레몬](https://raw.githubusercontent.com/hugoMGSung/cloning-John-lemon-s-haunted-jaunt/main/images/johnlemon003.png)
+	
 
 
